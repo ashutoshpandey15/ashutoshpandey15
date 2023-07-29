@@ -1,4 +1,4 @@
-![link](https://github.com/ashutoshpandey15/ashutoshpandey15/blob/main/cover%20linkdin.png)
+
 <h1 align="center">Hi 👋, I'm Ashutosh Pandey</h1>
 <h3 align="center">I craft digital experiences that come to life with a few lines of code</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/ffN-es3aN5cAAAAM/peepokc-kcpeepo.gif">
