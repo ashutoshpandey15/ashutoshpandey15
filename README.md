@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshpandey15&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshpandey15" /> </p>
 
-- 🌱 I’m currently learning **ReactJS ,NextJS ,Backend Development**
+- 🌱 I’m currently learning **ReactJS ,NextJS ,Python and Backend Development**
 
 - 💬 Ask me about **React, CSS ,Web Design**
 
