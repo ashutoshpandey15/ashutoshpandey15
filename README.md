@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Why did the programmer go broke? Because he used up all his cache.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://ashutosh-pandey15.netlify.app/ </h3>
 <p align="left">
 <a href="https://twitter.com/f0xii15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="f0xii15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashutoshpandey15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutoshpandey15" height="30" width="40" /></a>
