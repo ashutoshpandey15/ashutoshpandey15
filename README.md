@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⬩ I craft digital experiences that come to life with a few lines of code.<br>⬩ I’m currently learning AWS and Backend Devlopment.<br>⬩ All of my projects are available at - https://ashutosh-pandey15.netlify.app/</p>
+<p align="left">⬩ I craft digital experiences that come to life with a few lines of code.<br>⬩ I’m currently learning AWS and Backend Devlopment.<br>⬩ All of my projects are available at - https://ashu-me.vercel.app/</p>
 
 ###
 
